@@ -7,7 +7,7 @@ This is a simple project that proves this statement
 In order to execute it by yourself you should follow these instructions:
 
 
-###Mac/Linux:
+### Mac/Linux:
 From the root folder (make sure you have Java installed) execute these commands in the terminal
 ```
 javac src/main/Main.java src1/first/MyDummySingleton.java
@@ -16,7 +16,7 @@ java -cp src:src1:src2 main.Main
 java -cp src:src2:src1 main.Main
 ```
 
-###Windows:
+### Windows:
 From the root folder (make sure you have Java installed) execute these commands in the command line
 ```
 javac src\main\Main.java src1\first\MyDummySingleton.java
